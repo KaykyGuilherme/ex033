@@ -5,6 +5,10 @@
         background-image: linear-gradient(to bottom, var(--cor1), var(--cor2));
     }
     
+    div.campo > input{
+        transform: translate(4px, -45px);
+    }
+
     section#login{
         width: 90vw;
     }
