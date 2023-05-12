@@ -1,12 +1,5 @@
 @charset "UTF-8";
 
-:root{
-    --cor1: rgb(241, 146, 146);
-    --cor2: rgb(247, 247, 156);
-    --cor3: rgb(146, 4, 4);
-    --cor4: rgb(56, 255, 66);
-}
-
 @media screen and (min-width: 760px) and (max-width: 990px) {
     body{
         background-image: linear-gradient(to bottom, var(--cor1), var(--cor2));
